@@ -5,6 +5,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shadi-az&label=Profile%20views&color=0e75b6&style=flat" alt="shadi-az" />
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/) 
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shadi
@@ -22,8 +24,6 @@ I'm a passionate software engineering graduate. I'm constantly learning and expl
 <a href="https://www.github.com/Shadi-az" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shadi-az?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadi-az&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### Tech Stack
 
 <p align="left">
@@ -33,6 +33,8 @@ src="https://img.shields.io/github/followers/Shadi-az?logo=github&style=for-the-
 <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="36" height="36" /></a>  
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadi-az&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Socials
 
