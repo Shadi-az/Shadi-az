@@ -22,6 +22,8 @@ I'm a passionate software engineering graduate. I'm constantly learning and expl
 <a href="https://www.github.com/Shadi-az" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shadi-az?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadi-az&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### Tech Stack
 
 <p align="left">
