@@ -21,7 +21,7 @@ I'm a passionate software engineering graduate. I'm constantly learning and expl
 
 * 🌍  I'm based in England
 * 🚀  I'm currently working on My Portfolio
-* 🖥️  For now, see my portfolio at [my virtual card](http://#)
+* 🖥️  For now, see my portfolio at [my virtual card](https://shadi-card.vercel.app)
 
 
 
